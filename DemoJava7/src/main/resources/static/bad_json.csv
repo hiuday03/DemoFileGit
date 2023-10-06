@@ -1,0 +1,5 @@
+transaction_date,document_type,product_type,price_plan,transaction_type,group_type_1,group_name_1,delivery_mode,voucher,customer_title,customer_id,nationality,customer_category,customer_sub_category,hub_club_status,source,scr,dob,customer_name,email,mobile_number,group,division,top_hierarchy_level,placeholder13
+10/3/2023 10:17:27 AM,N.A,Broadband,N.A,N.A,N.A,N.A,N.A,No,Mr.,N.A,Singaporean,Consumer,Regular,N.A,Online Store,N.A,19900101,test,s4632454d@yopmail.com,98419489,CS88OS,Online Store,null,N.A
+10/3/2023 10:42:23 AM,N.A,TV,N.A,N.A,N.A,N.A,N.A,No,Mdm.,N.A,Singaporean,Consumer,Regular,N.A,Online Store,N.A,,admn,s9806010c@yopmail.com,N.A,CS88OS,Online Store,null,N.A
+10/3/2023 3:05:51 PM,N.A,Mobile,Welcome Plan,existing,N.A,N.A,delivery,Yes,Miss,1-TFQ9N7G,Singaporean,Consumer,Regular,N.A,Online Store,N.A,19951013,Hana recon moba,s9710289i@yopmail.com,98123456,CS88OS,Online Store,null,N.A
+10/3/2023 4:03:39 PM,N.A,Homehub,N.A,N.A,N.A,N.A,N.A,No,N.A,N.A,Singaporean,Consumer,Regular,N.A,Online Store,N.A,,Hana Van,s6177661c@yopmail.com,N.A,CS88OS,Online Store,null,N.A
